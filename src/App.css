@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.arabic{
+  direction: rtl !important;
+}
+
+.english{
+  direction: ltr !important;
+}

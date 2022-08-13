@@ -1,0 +1,8 @@
+.room {
+    border-radius: 18px;
+    background: #335a6c;
+    box-shadow:  -25px -25px 49px #2b4d5c,
+                25px 25px 49px #3b687c;
+    width: 400px;
+    height: 400px;
+}
